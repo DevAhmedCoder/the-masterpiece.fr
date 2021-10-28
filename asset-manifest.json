@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/the_masterpiece-Prod/static/css/main.59a2abdd.chunk.css",
-    "main.js": "/the_masterpiece-Prod/static/js/main.b3a49d7d.chunk.js",
-    "main.js.map": "/the_masterpiece-Prod/static/js/main.b3a49d7d.chunk.js.map",
-    "runtime-main.js": "/the_masterpiece-Prod/static/js/runtime-main.2fa31922.js",
-    "runtime-main.js.map": "/the_masterpiece-Prod/static/js/runtime-main.2fa31922.js.map",
-    "static/js/2.f01ed4bf.chunk.js": "/the_masterpiece-Prod/static/js/2.f01ed4bf.chunk.js",
-    "static/js/2.f01ed4bf.chunk.js.map": "/the_masterpiece-Prod/static/js/2.f01ed4bf.chunk.js.map",
-    "index.html": "/the_masterpiece-Prod/index.html",
-    "static/css/main.59a2abdd.chunk.css.map": "/the_masterpiece-Prod/static/css/main.59a2abdd.chunk.css.map",
-    "static/js/2.f01ed4bf.chunk.js.LICENSE.txt": "/the_masterpiece-Prod/static/js/2.f01ed4bf.chunk.js.LICENSE.txt"
+    "main.css": "/the-masterpiece.fr/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/the-masterpiece.fr/static/js/main.b3a49d7d.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.b3a49d7d.chunk.js.map",
+    "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
+    "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
+    "static/js/2.f01ed4bf.chunk.js": "/the-masterpiece.fr/static/js/2.f01ed4bf.chunk.js",
+    "static/js/2.f01ed4bf.chunk.js.map": "/the-masterpiece.fr/static/js/2.f01ed4bf.chunk.js.map",
+    "index.html": "/the-masterpiece.fr/index.html",
+    "static/css/main.59a2abdd.chunk.css.map": "/the-masterpiece.fr/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.f01ed4bf.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.f01ed4bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fa31922.js",
+    "static/js/runtime-main.55121c29.js",
     "static/js/2.f01ed4bf.chunk.js",
     "static/css/main.59a2abdd.chunk.css",
     "static/js/main.b3a49d7d.chunk.js"
