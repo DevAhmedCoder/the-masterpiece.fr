@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the_masterpiece-Prod/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/the_masterpiece-Prod/static/js/main.75bea222.chunk.js",
+    "main.js.map": "/the_masterpiece-Prod/static/js/main.75bea222.chunk.js.map",
+    "runtime-main.js": "/the_masterpiece-Prod/static/js/runtime-main.2aaaad3b.js",
+    "runtime-main.js.map": "/the_masterpiece-Prod/static/js/runtime-main.2aaaad3b.js.map",
+    "static/js/2.1887ce8e.chunk.js": "/the_masterpiece-Prod/static/js/2.1887ce8e.chunk.js",
+    "static/js/2.1887ce8e.chunk.js.map": "/the_masterpiece-Prod/static/js/2.1887ce8e.chunk.js.map",
+    "static/js/3.34ccb6fc.chunk.js": "/the_masterpiece-Prod/static/js/3.34ccb6fc.chunk.js",
+    "static/js/3.34ccb6fc.chunk.js.map": "/the_masterpiece-Prod/static/js/3.34ccb6fc.chunk.js.map",
+    "index.html": "/the_masterpiece-Prod/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/the_masterpiece-Prod/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1887ce8e.chunk.js.LICENSE.txt": "/the_masterpiece-Prod/static/js/2.1887ce8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/the_masterpiece-Prod/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aaaad3b.js",
+    "static/js/2.1887ce8e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.75bea222.chunk.js"
+  ]
+}
