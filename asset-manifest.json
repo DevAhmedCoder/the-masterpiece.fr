@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-masterpiece.fr/static/css/main.2da4d005.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.51f5e5c8.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.51f5e5c8.chunk.js.map",
+    "main.js": "/the-masterpiece.fr/static/js/main.dcfd6a0a.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.dcfd6a0a.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
     "static/js/2.577e80ba.chunk.js": "/the-masterpiece.fr/static/js/2.577e80ba.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.55121c29.js",
     "static/js/2.577e80ba.chunk.js",
     "static/css/main.2da4d005.chunk.css",
-    "static/js/main.51f5e5c8.chunk.js"
+    "static/js/main.dcfd6a0a.chunk.js"
   ]
 }
