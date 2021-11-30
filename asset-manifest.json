@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/the-masterpiece.fr/static/css/main.5602d11d.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.9d614ff3.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.9d614ff3.chunk.js.map",
+    "main.css": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css",
+    "main.js": "/the-masterpiece.fr/static/js/main.76d7f12c.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.76d7f12c.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
     "static/js/2.8075e48a.chunk.js": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js",
     "static/js/2.8075e48a.chunk.js.map": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js.map",
     "index.html": "/the-masterpiece.fr/index.html",
-    "static/css/main.5602d11d.chunk.css.map": "/the-masterpiece.fr/static/css/main.5602d11d.chunk.css.map",
+    "static/css/main.407bba36.chunk.css.map": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css.map",
     "static/js/2.8075e48a.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/the-masterpiece.fr/static/media/futurali.793b2481.ttf",
     "static/media/Title.css": "/the-masterpiece.fr/static/media/olfsimplesansoc-regular.e9b08d41.ttf",
@@ -18,14 +18,14 @@
     "static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4": "/the-masterpiece.fr/static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4",
     "static/media/pexels-mikhail-nilov-6949301.ce885e97.mp4": "/the-masterpiece.fr/static/media/pexels-mikhail-nilov-6949301.ce885e97.mp4",
     "static/media/pexels-mikhail-nilov-7626975.09910882.mp4": "/the-masterpiece.fr/static/media/pexels-mikhail-nilov-7626975.09910882.mp4",
-    "static/media/robe de mariage.fb36087c.png": "/the-masterpiece.fr/static/media/robe de mariage.fb36087c.png",
+    "static/media/robe de mariage1.e2a78327.png": "/the-masterpiece.fr/static/media/robe de mariage1.e2a78327.png",
     "static/media/robe1.1d5fab8a.png": "/the-masterpiece.fr/static/media/robe1.1d5fab8a.png",
     "static/media/tailleur.ac5c6f2e.png": "/the-masterpiece.fr/static/media/tailleur.ac5c6f2e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.55121c29.js",
     "static/js/2.8075e48a.chunk.js",
-    "static/css/main.5602d11d.chunk.css",
-    "static/js/main.9d614ff3.chunk.js"
+    "static/css/main.407bba36.chunk.css",
+    "static/js/main.76d7f12c.chunk.js"
   ]
 }
