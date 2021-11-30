@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.ee3da345.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.ee3da345.chunk.js.map",
+    "main.js": "/the-masterpiece.fr/static/js/main.42a87821.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.42a87821.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
-    "static/js/2.8075e48a.chunk.js": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js",
-    "static/js/2.8075e48a.chunk.js.map": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js.map",
+    "static/js/2.ab4aa96f.chunk.js": "/the-masterpiece.fr/static/js/2.ab4aa96f.chunk.js",
+    "static/js/2.ab4aa96f.chunk.js.map": "/the-masterpiece.fr/static/js/2.ab4aa96f.chunk.js.map",
     "index.html": "/the-masterpiece.fr/index.html",
     "static/css/main.407bba36.chunk.css.map": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css.map",
-    "static/js/2.8075e48a.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.8075e48a.chunk.js.LICENSE.txt",
+    "static/js/2.ab4aa96f.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.ab4aa96f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/the-masterpiece.fr/static/media/futurali.793b2481.ttf",
     "static/media/Title.css": "/the-masterpiece.fr/static/media/olfsimplesansoc-regular.e9b08d41.ttf",
     "static/media/pexels-anastasia-shuraeva-5704899.406846f9.mp4": "/the-masterpiece.fr/static/media/pexels-anastasia-shuraeva-5704899.406846f9.mp4",
-    "static/media/pexels-darina-belonogova-7971671.9606ff35.mp4": "/the-masterpiece.fr/static/media/pexels-darina-belonogova-7971671.9606ff35.mp4",
     "static/media/pexels-los-muertos-crew-8030194.6f268fc9.mp4": "/the-masterpiece.fr/static/media/pexels-los-muertos-crew-8030194.6f268fc9.mp4",
     "static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4": "/the-masterpiece.fr/static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4",
     "static/media/pexels-mikhail-nilov-6949301.ce885e97.mp4": "/the-masterpiece.fr/static/media/pexels-mikhail-nilov-6949301.ce885e97.mp4",
@@ -24,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.55121c29.js",
-    "static/js/2.8075e48a.chunk.js",
+    "static/js/2.ab4aa96f.chunk.js",
     "static/css/main.407bba36.chunk.css",
-    "static/js/main.ee3da345.chunk.js"
+    "static/js/main.42a87821.chunk.js"
   ]
 }
