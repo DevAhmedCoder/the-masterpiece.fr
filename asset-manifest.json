@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.d41da219.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.d41da219.chunk.js.map",
+    "main.css": "/the-masterpiece.fr/static/css/main.0173d101.chunk.css",
+    "main.js": "/the-masterpiece.fr/static/js/main.552544a2.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.552544a2.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
     "static/css/2.58a45539.chunk.css": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css",
-    "static/js/2.8f71f871.chunk.js": "/the-masterpiece.fr/static/js/2.8f71f871.chunk.js",
-    "static/js/2.8f71f871.chunk.js.map": "/the-masterpiece.fr/static/js/2.8f71f871.chunk.js.map",
+    "static/js/2.b1de4fbc.chunk.js": "/the-masterpiece.fr/static/js/2.b1de4fbc.chunk.js",
+    "static/js/2.b1de4fbc.chunk.js.map": "/the-masterpiece.fr/static/js/2.b1de4fbc.chunk.js.map",
     "index.html": "/the-masterpiece.fr/index.html",
     "static/css/2.58a45539.chunk.css.map": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css.map",
-    "static/css/main.407bba36.chunk.css.map": "/the-masterpiece.fr/static/css/main.407bba36.chunk.css.map",
-    "static/js/2.8f71f871.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.8f71f871.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/the-masterpiece.fr/static/media/futurali.793b2481.ttf",
+    "static/css/main.0173d101.chunk.css.map": "/the-masterpiece.fr/static/css/main.0173d101.chunk.css.map",
+    "static/js/2.b1de4fbc.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.b1de4fbc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/the-masterpiece.fr/static/media/mask.9d0b2671.png",
     "static/media/Title.css": "/the-masterpiece.fr/static/media/olfsimplesansoc-regular.e9b08d41.ttf",
     "static/media/collection.80c4178e.png": "/the-masterpiece.fr/static/media/collection.80c4178e.png",
     "static/media/design.76b6dfec.png": "/the-masterpiece.fr/static/media/design.76b6dfec.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.55121c29.js",
     "static/css/2.58a45539.chunk.css",
-    "static/js/2.8f71f871.chunk.js",
-    "static/css/main.407bba36.chunk.css",
-    "static/js/main.d41da219.chunk.js"
+    "static/js/2.b1de4fbc.chunk.js",
+    "static/css/main.0173d101.chunk.css",
+    "static/js/main.552544a2.chunk.js"
   ]
 }
