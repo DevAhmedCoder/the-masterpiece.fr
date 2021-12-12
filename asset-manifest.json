@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/the-masterpiece.fr/static/css/main.fabf4980.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.e20cf9a6.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.e20cf9a6.chunk.js.map",
+    "main.js": "/the-masterpiece.fr/static/js/main.d8edeb2e.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.d8edeb2e.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
     "static/css/2.58a45539.chunk.css": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css",
-    "static/js/2.ba60fbec.chunk.js": "/the-masterpiece.fr/static/js/2.ba60fbec.chunk.js",
-    "static/js/2.ba60fbec.chunk.js.map": "/the-masterpiece.fr/static/js/2.ba60fbec.chunk.js.map",
+    "static/js/2.be0e6af8.chunk.js": "/the-masterpiece.fr/static/js/2.be0e6af8.chunk.js",
+    "static/js/2.be0e6af8.chunk.js.map": "/the-masterpiece.fr/static/js/2.be0e6af8.chunk.js.map",
     "index.html": "/the-masterpiece.fr/index.html",
     "static/css/2.58a45539.chunk.css.map": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css.map",
     "static/css/main.fabf4980.chunk.css.map": "/the-masterpiece.fr/static/css/main.fabf4980.chunk.css.map",
-    "static/js/2.ba60fbec.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.ba60fbec.chunk.js.LICENSE.txt",
+    "static/js/2.be0e6af8.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.be0e6af8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/the-masterpiece.fr/static/media/futurali.793b2481.ttf",
     "static/media/Title.css": "/the-masterpiece.fr/static/media/olfsimplesansoc-regular.e9b08d41.ttf",
     "static/media/collection.80c4178e.png": "/the-masterpiece.fr/static/media/collection.80c4178e.png",
     "static/media/design.467ad128.png": "/the-masterpiece.fr/static/media/design.467ad128.png",
-    "static/media/mask2.cef4659e.png": "/the-masterpiece.fr/static/media/mask2.cef4659e.png",
-    "static/media/owenRobe1.467ca4ef.jpg": "/the-masterpiece.fr/static/media/owenRobe1.467ca4ef.jpg",
-    "static/media/owenRobe2.cccd3330.jpeg": "/the-masterpiece.fr/static/media/owenRobe2.cccd3330.jpeg",
-    "static/media/owenRobe3.93692dd3.jpg": "/the-masterpiece.fr/static/media/owenRobe3.93692dd3.jpg",
-    "static/media/owenRobe4.20accd33.jpg": "/the-masterpiece.fr/static/media/owenRobe4.20accd33.jpg",
+    "static/media/owenRobe1.cb834e2c.jpg": "/the-masterpiece.fr/static/media/owenRobe1.cb834e2c.jpg",
+    "static/media/owenRobe2.d0818ad1.jpeg": "/the-masterpiece.fr/static/media/owenRobe2.d0818ad1.jpeg",
+    "static/media/owenRobe3.68c1c40d.jpg": "/the-masterpiece.fr/static/media/owenRobe3.68c1c40d.jpg",
+    "static/media/owenRobe4.f0804a2e.jpg": "/the-masterpiece.fr/static/media/owenRobe4.f0804a2e.jpg",
+    "static/media/owenRobe5.24644fba.jpg": "/the-masterpiece.fr/static/media/owenRobe5.24644fba.jpg",
     "static/media/patronage.9fc44a84.png": "/the-masterpiece.fr/static/media/patronage.9fc44a84.png",
     "static/media/pexels-los-muertos-crew-8030194.6f268fc9.mp4": "/the-masterpiece.fr/static/media/pexels-los-muertos-crew-8030194.6f268fc9.mp4",
     "static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4": "/the-masterpiece.fr/static/media/pexels-michael-burrows-7146884.1ff7a49f.mp4",
@@ -30,13 +30,14 @@
     "static/media/robe de mariage1.e2a78327.png": "/the-masterpiece.fr/static/media/robe de mariage1.e2a78327.png",
     "static/media/robe1.1d5fab8a.png": "/the-masterpiece.fr/static/media/robe1.1d5fab8a.png",
     "static/media/robe3.25271e4a.png": "/the-masterpiece.fr/static/media/robe3.25271e4a.png",
-    "static/media/tailleur.ac5c6f2e.png": "/the-masterpiece.fr/static/media/tailleur.ac5c6f2e.png"
+    "static/media/tailleur.ac5c6f2e.png": "/the-masterpiece.fr/static/media/tailleur.ac5c6f2e.png",
+    "static/media/user-profile.8ef79a91.svg": "/the-masterpiece.fr/static/media/user-profile.8ef79a91.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.55121c29.js",
     "static/css/2.58a45539.chunk.css",
-    "static/js/2.ba60fbec.chunk.js",
+    "static/js/2.be0e6af8.chunk.js",
     "static/css/main.fabf4980.chunk.css",
-    "static/js/main.e20cf9a6.chunk.js"
+    "static/js/main.d8edeb2e.chunk.js"
   ]
 }
