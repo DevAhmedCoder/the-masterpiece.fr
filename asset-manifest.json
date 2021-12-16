@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/the-masterpiece.fr/static/css/main.fabf4980.chunk.css",
-    "main.js": "/the-masterpiece.fr/static/js/main.eb508444.chunk.js",
-    "main.js.map": "/the-masterpiece.fr/static/js/main.eb508444.chunk.js.map",
+    "main.css": "/the-masterpiece.fr/static/css/main.cbfd1384.chunk.css",
+    "main.js": "/the-masterpiece.fr/static/js/main.772940b5.chunk.js",
+    "main.js.map": "/the-masterpiece.fr/static/js/main.772940b5.chunk.js.map",
     "runtime-main.js": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js",
     "runtime-main.js.map": "/the-masterpiece.fr/static/js/runtime-main.55121c29.js.map",
     "static/css/2.58a45539.chunk.css": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.85621adf.chunk.js.map": "/the-masterpiece.fr/static/js/2.85621adf.chunk.js.map",
     "index.html": "/the-masterpiece.fr/index.html",
     "static/css/2.58a45539.chunk.css.map": "/the-masterpiece.fr/static/css/2.58a45539.chunk.css.map",
-    "static/css/main.fabf4980.chunk.css.map": "/the-masterpiece.fr/static/css/main.fabf4980.chunk.css.map",
+    "static/css/main.cbfd1384.chunk.css.map": "/the-masterpiece.fr/static/css/main.cbfd1384.chunk.css.map",
     "static/js/2.85621adf.chunk.js.LICENSE.txt": "/the-masterpiece.fr/static/js/2.85621adf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/the-masterpiece.fr/static/media/futurali.793b2481.ttf",
     "static/media/Title.css": "/the-masterpiece.fr/static/media/olfsimplesansoc-regular.e9b08d41.ttf",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.55121c29.js",
     "static/css/2.58a45539.chunk.css",
     "static/js/2.85621adf.chunk.js",
-    "static/css/main.fabf4980.chunk.css",
-    "static/js/main.eb508444.chunk.js"
+    "static/css/main.cbfd1384.chunk.css",
+    "static/js/main.772940b5.chunk.js"
   ]
 }
